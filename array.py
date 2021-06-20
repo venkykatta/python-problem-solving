@@ -1,0 +1,6 @@
+n = int(input())
+arr = input()
+l = list(map(int,arr.split(' ')))
+# l = map(int,arr.split())
+print(arr)
+print(l)
